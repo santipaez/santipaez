@@ -3,7 +3,9 @@
 I'm [santipaez] 👨‍💻
 
 📚 Computer Engineering Student at Universidad De Mendoza, Argentina 📍
+
 🌍 Tech Enthusiast and Code Lover
+
 💡 Always eager to learn and explore new opportunities
 
 # 💻 Tech Stack:
