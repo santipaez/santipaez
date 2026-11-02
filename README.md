@@ -28,6 +28,11 @@ during retrieval, before a model ever sees a document. Ships an eval suite that 
 build on any leak, and a benchmark measuring what the opposite order costs: recall falls
 from 100% to 37% once 20 restricted near-duplicates compete per topic.
 
+**[midea-mf200-tools](https://github.com/santipaez/midea-mf200-tools)** — reverse engineering
+of the local protocol of the washer-dryer in my flat. The hardware can run cold-air
+ventilation; the firmware blocks the program id. Five strategies tested against the machine,
+offsets documented, negative result reported to the vendor.
+
 **[web-posture](https://github.com/santipaez/web-posture)** — passive security posture
 checks for a domain: DMARC and SPF policy, TLS, security headers, cookie flags and exposed
 files. Standard library only, 23 offline tests, and an authorization gate that refuses to
@@ -35,4 +40,4 @@ scan without an explicit flag and a recorded reason.
 
 ## Elsewhere
 
-[LinkedIn](https://linkedin.com/in/spaezredondo) · [spaezredondo@gmail.com](mailto:spaezredondo@gmail.com)
+[santipaez.github.io](https://santipaez.github.io) · [LinkedIn](https://linkedin.com/in/spaezredondo) · [spaezredondo@gmail.com](mailto:spaezredondo@gmail.com)
